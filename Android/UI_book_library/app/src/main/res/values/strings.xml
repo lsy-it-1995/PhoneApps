@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookReader</string>
+    <string name="activity_all_book">All Books</string>
+    <string name="activity_book">Book details</string>
+    <string name="activity_already_read">Books you have completed</string>
+    <string name="activity_favourite_books">Favourite books</string>
+    <string name="activity_want_to_read">Waitlist books</string>
+    <string name="activity_current_reading">Books you currently read</string>
+</resources>
